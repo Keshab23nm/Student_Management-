@@ -1,2 +1,3 @@
 # Student_Management-
-This is a students management system using php
+This is a students management system using HTML,CSS,PHP
+
